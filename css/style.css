@@ -4,3 +4,11 @@ h2 {
 body {
     background-color: black 
 }
+p {
+     
+    border:5px solid;
+    padding:20px;
+    margin:20px;
+    width:7%;
+    height:50;
+}

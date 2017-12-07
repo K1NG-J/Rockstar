@@ -1,5 +1,7 @@
 h2 {
-    color:purple 
+    color:purple;
+    
+    text-align:left;
 }
 body {
     background-color: black 
@@ -11,4 +13,34 @@ p {
     margin:20px;
     width:7%;
     height:50;
+}
+ul{
+    color:purple;
+}
+div{
+    background-color:black;
+    height:600px;
+}
+a:link {
+    color: purple; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: purple;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color:pink;
+    background-color: transparent;
+    text-decoration: underline;
 }

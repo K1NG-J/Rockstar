@@ -1,11 +1,12 @@
 h2 {
     color:purple;
-    
     text-align:left;
 }
+
 body {
     background-color: black 
 }
+
 p {
      
     border:5px solid;
@@ -14,13 +15,16 @@ p {
     width:7%;
     height:50;
 }
-ul{
+
+ul {
     color:purple;
 }
-div{
+
+div {
     background-color:black;
     height:600px;
 }
+
 a:link {
     color: purple; 
     background-color: transparent; 
